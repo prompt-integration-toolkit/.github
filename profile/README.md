@@ -6,6 +6,12 @@ The project was created for people who want to keep their prompts structured ins
 
 Prompt-it treats prompts as reusable resources that can be saved, shared, improved, and accessed again whenever needed.
 
+<p align="center">
+  <a href="https://github.com/Prompt-It-org/prompt-it-cli" align="center">
+    <img src="https://github.com/Prompt-It-org/.github/blob/main/profile/Prompt-it-CLI-Card.png" width="500">
+  </a>
+</p>
+
 ---
 
 ## What is Prompt-it for?
