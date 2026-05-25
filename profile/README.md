@@ -86,3 +86,10 @@ Prompt-it is currently in early development.
 The first focus is building a solid CLI, a clean registry structure, and a simple foundation for publishing and reusing prompts.
 
 More features will be added gradually as the ecosystem grows.
+
+---
+
+#### Support me ❤️
+<a href="https://buymeacoffee.com/miguelcm" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&size=32&animation=flash&animationDuration=5&color=%23ffffff" alt="buymeacoffee" />
+</a>
