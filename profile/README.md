@@ -90,7 +90,7 @@ More features will be added gradually as the ecosystem grows.
 
 ---
 
-#### Support me ❤️
+#### Motivate and Support ❤️
 <a href="https://buymeacoffee.com/miguelcm" target="_blank" rel="noopener noreferrer">
   <img src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&size=32&animation=flash&animationDuration=5&color=%23ffffff" alt="buymeacoffee" />
 </a>
