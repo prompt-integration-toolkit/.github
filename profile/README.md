@@ -18,14 +18,9 @@ Prompt-it treats prompts as reusable resources that can be saved, shared, improv
 
 ## Organization structure
 
-The Prompt-it organization is divided into focused repositories:
-
-Each repository has a clear responsibility, keeping the project easier to maintain and expand.
-
 | Repository | Purpose |
 |---|---|
 | `prompt-it-cli` | <img alt="Prompt-It CLI" src="https://img.shields.io/badge/CLI-a?style=for-the-badge&color=black"> <br> The command-line tool distributed through NPM |
-| `prompt-it-registry` | <img alt="Static Badge" src="https://img.shields.io/badge/Registry-brown?style=for-the-badge"> <br> The public prompt registry used to store prompts and metadata |
 
 ---
 
@@ -84,7 +79,7 @@ The long-term vision includes:
 
 Prompt-it is currently in early development.
 
-The first focus is building a solid CLI, a clean registry structure, and a simple foundation for publishing and reusing prompts.
+The first focus is building a solid CLI and a simple foundation for publishing and reusing prompts.
 
 More features will be added gradually as the ecosystem grows.
 
