@@ -1,8 +1,8 @@
-# Prompt-it
+# Prompt Integration Toolkit
 
-![Prompt-It](https://img.shields.io/badge/-Prompt--It-black?logo=github&style=for-the-badge)
+![Prompt Integration Toolkit](https://img.shields.io/badge/Prompt--Integration--Toolkit-black?logo=github&style=for-the-badge)
 
-**Prompt-it** is an open-source ecosystem for organizing, storing, versioning, publishing, and reusing prompts.
+**Prompt Integration Toolkit**, abbreviated as **Prompt-it**, is an open-source ecosystem for organizing, storing, versioning, publishing, and reusing prompts.
 
 The project was created for people who want to keep their prompts structured instead of leaving them scattered across notes, chats, files, and random folders.
 
@@ -11,8 +11,8 @@ Prompt-it treats prompts as reusable resources that can be saved, shared, improv
 ---
 
 <p align="center">
-  <a href="https://github.com/Prompt-It-org/prompt-it-cli" align="center">
-    <img src="https://github.com/Prompt-It-org/.github/blob/main/profile/Prompt-it-CLI-Card.png" width="500">
+  <a href="https://github.com/prompt-integration-toolkit/prompt-it-cli" align="center">
+    <img src="https://github.com/prompt-integration-toolkit/.github/blob/main/profile/Prompt-it-CLI-Card.png" width="500">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Prompt-it treats prompts as reusable resources that can be saved, shared, improv
 
 ---
 
-## What is Prompt-it for?
+## What is Prompt Integration Toolkit for?
 
 Prompt-it helps users manage prompts in a more organized and reliable way.
 
@@ -41,7 +41,7 @@ The goal is to make prompt management feel more like managing packages, snippets
 
 ---
 
-## Why Prompt-it exists
+## Why Prompt Integration Toolkit exists
 
 Prompts are becoming part of how people code, write, study, research, design, and automate work.
 
@@ -60,7 +60,7 @@ Prompt-it exists to make prompts:
 
 ## Project vision
 
-Prompt-it aims to become a simple and practical prompt management ecosystem.
+Prompt Integration Toolkit aims to become a simple and practical prompt management ecosystem.
 
 The long-term vision includes:
 
@@ -77,7 +77,7 @@ The long-term vision includes:
 
 ## Current status
 
-Prompt-it is currently in early development.
+Prompt Integration Toolkit is currently in early development.
 
 The first focus is building a solid CLI and a simple foundation for publishing and reusing prompts.
 
